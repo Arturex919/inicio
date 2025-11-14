@@ -46,20 +46,24 @@
 ## 📂 My Projects
 
 <p align="center">
-  <a href="https://github.com/Arturex919/Programacion_1DAW">
-    <img src="https://img.shields.io/badge/Programacion_1DAW-blue?style=for-the-badge&logo=github" alt="Programación 1DAW"/>
+  <a href="https://github.com/Arturex919/Programacion_1DAW" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/Programacion_1DAW-007ACC?style=for-the-badge&logo=github&logoColor=white" alt="Programación 1DAW"/>
   </a>
- <a href="https://github.com/Arturex919/PAGINA-WEB-RESTAURANTE" target="_blank" rel="noopener noreferrer">
-  <img src="https://img.shields.io/badge/Web%20Restaurante-24292e?style=for-the-badge&logo=github&logoColor=white" alt="Página Web Restaurante"/>
-</a>
+  
+  <a href="https://github.com/Arturex919/PAGINA-WEB-RESTAURANTE" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/Web%20Restaurante-24292e?style=for-the-badge&logo=github&logoColor=white" alt="Página Web Restaurante"/>
+  </a>
 
-  <a href="https://github.com/Arturex919/Ramos">
-    <img src="https://img.shields.io/badge/RAMOS-yellow?style=for-the-badge&logo=github" alt="Ramos"/>
+  <a href="https://github.com/Arturex919/Ramos" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/RAMOS-F4C430?style=for-the-badge&logo=github&logoColor=white" alt="Ramos"/>
   </a>
 </p>
-<a href="https://github.com/Arturex919?tab=repositories" target="_blank" rel="noopener noreferrer">
-  <img src="https://img.shields.io/badge/Arturex919-Repositorios-24292e?style=for-the-badge&logo=github&logoColor=white" alt="Todos los repositorios de Arturex919"/>
-</a>
+
+<p align="center">
+  <a href="https://github.com/Arturex919?tab=repositories" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/Arturex919-Repositorios-24292e?style=for-the-badge&logo=github&logoColor=white" alt="Todos los repositorios de Arturex919"/>
+  </a>
+</p>
 
 
 ---
