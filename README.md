@@ -29,8 +29,6 @@
 ### Backend
 - Java
 - Spring Boot
-- OOP & Design Patterns
-- REST APIs
 - Best Practices
 
 ### Frontend
@@ -41,7 +39,6 @@
 ### Tools & Others
 - Git & GitHub
 - SQL / Databases
-- Testing & Debugging
 - Technical Documentation
 - Agile / Development Methodologies
 
