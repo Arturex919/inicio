@@ -17,10 +17,9 @@
 ## 👨‍💻 About Me
 
 - :school: I am a `2º DAW` student, passionate about creating web applications.
-- :rocket: I love building **full-stack solutions** with clean, maintainable code.
-- :technologist: Always learning **new technologies** and improving my skills.
-- :computer: Experienced in **frontend & backend development**.
-- :trophy: Goal: Build projects that reflect my growth as a developer.
+- :technologist: I'm always learning new technologies and improving my skills.
+- :computer: I have experience in both frontend and backend development thanks to my studies.
+- :trophy: Goal: My goal is to create projects that reflect my growth as a developer.
 
 ---
 
