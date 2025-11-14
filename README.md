@@ -49,7 +49,7 @@
   <a href="https://github.com/Arturex919/Programacion_1DAW">
     <img src="https://img.shields.io/badge/Programacion_1DAW-blue?style=for-the-badge&logo=github" alt="Programación 1DAW"/>
   </a>
-  <a href="https://github.com/Arturex919/PAGINA-WEB-RESTAURANTE">
+ <a href="https://github.com/Arturex919/PAGINA-WEB-RESTAURANTE">
     <img src="https://img.shields.io/badge/PAGINA-WEB-RESTAURANTE-green?style=for-the-badge&logo=github" alt="Página Web Restaurante"/>
   </a>
   <a href="https://github.com/Arturex919/ramo">
