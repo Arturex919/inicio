@@ -50,7 +50,7 @@
     <img src="https://img.shields.io/badge/Programacion_1DAW-blue?style=for-the-badge&logo=github" alt="Programación 1DAW"/>
   </a>
  <a href="https://github.com/Arturex919/PAGINA-WEB-RESTAURANTE" target="_blank" rel="noopener noreferrer">
-  <img src="https://img.shields.io/badge/Arturex919-Página%20Web%20Restaurante-24292e?style=for-the-badge&logo=github&logoColor=white" alt="Página Web Restaurante"/>
+  <img src="https://img.shields.io/badge/Web%20Restaurante-24292e?style=for-the-badge&logo=github&logoColor=white" alt="Página Web Restaurante"/>
 </a>
 
   <a href="https://github.com/Arturex919/Ramos">
